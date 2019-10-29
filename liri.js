@@ -11,23 +11,26 @@ const searchInput = process.argv.slice(2).join(" ");
 const divider = "============================="
 
 function songSearch(song) {
-    spotify.search({ type: 'track', query: song, limit: "1" }, function (err, data) {
+    spotify.search({ type: 'track', query: song, limit: "5" }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
-        const artistName = [];
-        const returnedArtists = data.tracks.items[0].artists;
+        for (let i = 0; i < data.tracks.items.length; i++) {
+            const artistName = [];
+            const returnedArtists = data.tracks.items[i].artists;
+            for (let j = 0; j < returnedArtists.length; j++) {
+                artistName.push(returnedArtists[j].name);
+            }
+            console.log(divider);
+            console.log("Artist(s): " + artistName.join(", "));
+            console.log("Song: " + data.tracks.items[i].name);
+            console.log("Album: " + data.tracks.items[i].album.name);
+            console.log("Preview URL: " + data.tracks.items[i].preview_url);
+            console.log(divider);
+        }
 
         //console.log(JSON.stringify(data, null, 2)); 
-        for (let i = 0; i < returnedArtists.length; i++) {
-             artistName.push(returnedArtists[i].name);
-        }
-        console.log(divider);
-        console.log("Artist(s): " + artistName.join(", "));
-        console.log("Song: " + data.tracks.items[0].name);
-        console.log("Album: " + data.tracks.items[0].album.name);
-        console.log("Preview URL: " + data.tracks.items[0].preview_url);
-        console.log(divider);
+
     });
 }
 
