@@ -6,7 +6,10 @@ const spotify = new Spotify(keys.spotify);
 const moment = require('moment');
 const fs = require("fs");
 
-const userCommand = process.argv[2].toLowerCase();
+let userCommand;
+if (process.argv[2] !== undefined){
+    userCommand = process.argv[2].toLowerCase();
+}
 let searchInput = process.argv.slice(3).join(" ");
 const divider = "=============================";
 
@@ -27,16 +30,20 @@ function readCommand(command) {
             doWhatItSays();
             break;
         default:
-            console.log("Not a recognized command");
+            console.log('Not a recognized command. Try "concert-this", "spotify-this-song", "movie-this", or "do-what-it-says".');
     }
 }
 
 
 function songSearch(song) {
+    if(song === ""){
+        song = "The Sign"
+    }
     spotify.search({ type: 'track', query: song, limit: "5" }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
+        
         for (let i = 0; i < data.tracks.items.length; i++) {
             const artistName = [];
             const returnedArtists = data.tracks.items[i].artists;
