@@ -28,10 +28,27 @@ function songSearch(song) {
             console.log("Preview URL: " + data.tracks.items[i].preview_url);
             console.log(divider);
         }
-
-        //console.log(JSON.stringify(data, null, 2)); 
-
     });
 }
 
-songSearch(searchInput)
+function concertSearch(artist) {
+    const queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
+    axios.get(queryURL).then(
+        function (response) {
+            for (let i = 0; i < response.data.length; i++) {
+                const venue = response.data[i].venue
+                console.log(divider);
+                console.log(venue.name);
+                if (venue.region !== "") {
+                    console.log(venue.city + ", " + venue.region);
+                    console.log(venue.country);
+                } else {
+                    console.log(venue.city + ", " + venue.country);
+                }
+                console.log(moment(response.data[i].datetime).format("MM/DD/YYYY"));
+                console.log(divider);
+            }
+        });
+}
+
+concertSearch(searchInput)
