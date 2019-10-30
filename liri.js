@@ -4,10 +4,28 @@ const axios = require('axios');
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(keys.spotify);
 const moment = require('moment');
+const fs = require("fs");
 
 const command = process.argv[2].toLowerCase();
-const searchInput = process.argv.slice(2).join(" ");
-const divider = "============================="
+const searchInput = process.argv.slice(3).join(" ");
+const divider = "=============================";
+
+switch (command) {
+    case "spotify-this-song":
+        songSearch(searchInput);
+        break;
+    case "concert-this":
+        concertSearch(searchInput);
+        break;
+    case "movie-this":
+        movieSearch(searchInput);
+        break;
+    case "do-what-it-says":
+        doWhatItSays();
+        break;
+    default:
+        console.log("Not a recognized command");
+}
 
 function songSearch(song) {
     spotify.search({ type: 'track', query: song, limit: "5" }, function (err, data) {
@@ -95,4 +113,3 @@ function movieSearch(movie) {
         });
 }
 
-movieSearch(searchInput)
