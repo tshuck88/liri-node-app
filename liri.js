@@ -4,7 +4,6 @@ const axios = require('axios');
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(keys.spotify);
 const moment = require('moment');
-moment().format();
 
 const command = process.argv[2].toLowerCase();
 const searchInput = process.argv.slice(2).join(" ");
@@ -48,6 +47,20 @@ function concertSearch(artist) {
                 console.log(moment(response.data[i].datetime).format("MM/DD/YYYY"));
                 console.log(divider);
             }
+        }).catch(function (error) {
+            if (error.response) {
+                console.log("---------------Data---------------");
+                console.log(error.response.data);
+                console.log("---------------Status---------------");
+                console.log(error.response.status);
+                console.log("---------------Status---------------");
+                console.log(error.response.headers);
+            } else if (error.request) {
+                console.log(error.request);
+            } else {
+                console.log("Error", error.message);
+            }
+            console.log(error.config);
         });
 }
 
