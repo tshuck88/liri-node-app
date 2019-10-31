@@ -26,21 +26,21 @@ Following the command, users can enter the name of a song, movie, or artist they
 ## Examples
 
 ### Song Search
-![image info](./images/song.png)
+![song search](./images/song.PNG)
 
 ### Movie Search
 
 
 ### Concert Search
-![image info](./images/concert.png)
+![image info](./images/concert.PNG)
 
 ### Do What It Says
 
 LIRI can read the `random.txt` file and search for the commands in that file. The user does not have to put in a search term, only the command `do-what-it-says`, and LIRI will do what the text file says. The command and the search text in `random.txt` must be separated by a comma `,`. LIRI will not recognize the text if the command search are not separated by a comma. Quotes `"` are optional and LIRI will recognize the search term with or with out them.
 
-![image info](./images/text-input.png)
+![image info](./images/text-input.PNG)
 
-![image info](./images/do-what-it-says.png)
+![image info](./images/do-what-it-says.PNG)
 
 ### Logs
 
