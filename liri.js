@@ -1,3 +1,4 @@
+// grabs and stores required dependencies
 require("dotenv").config();
 const keys = require("./key.js");
 const axios = require('axios');
@@ -6,6 +7,7 @@ const spotify = new Spotify(keys.spotify);
 const moment = require('moment');
 const fs = require("fs");
 
+// toLowerCase returns an error if userCommand is undefined. Adding this logic allows default case of switch statement to run if userCommand is undefined
 let userCommand;
 if (process.argv[2] !== undefined) {
     userCommand = process.argv[2].toLowerCase();
@@ -13,7 +15,8 @@ if (process.argv[2] !== undefined) {
 let searchInput = process.argv.slice(3).join(" ");
 const divider = "=============================";
 
-const text = process.argv.slice(2).join(" ") + "\n";
+// writes the userCommand and searchInput to log.txt
+const text = userCommand + " " + searchInput + "\n";
 fs.appendFileSync("log.txt", text, function (err) {
     if (err) {
         logText(err);
@@ -22,6 +25,7 @@ fs.appendFileSync("log.txt", text, function (err) {
     }
 });
 
+// function to log outputs to the console and log.txt
 function logText(message) {
     console.log(message)
     fs.appendFileSync("log.txt", message + "\n", function (err) {
@@ -33,6 +37,7 @@ function logText(message) {
 
 readCommand(userCommand, searchInput);
 
+// function that will run the apporopriate search based on the user's command
 function readCommand(command, search) {
     switch (command) {
         case "spotify-this-song":
@@ -54,6 +59,7 @@ function readCommand(command, search) {
     }
 }
 
+// function to search the Spotify API
 function songSearch(song) {
     if (song === "") {
         song = "The Sign Ace of Base";
@@ -85,6 +91,7 @@ function songSearch(song) {
     });
 }
 
+// function to search the Bands In Town API
 function concertSearch(artist) {
     if (artist === "") {
         artist = "Diplo";
@@ -130,6 +137,7 @@ function concertSearch(artist) {
         });
 }
 
+// function to search the OMDB API
 function movieSearch(movie) {
     if (movie === "") {
         movie = "Mr. Nobody";
@@ -173,17 +181,17 @@ function movieSearch(movie) {
         });
 }
 
+// function that reads the random.txt file and returns search results based on the content of the file
 function doWhatItSays() {
     fs.readFile("random.txt", "utf8", function (error, data) {
         if (error) {
             logText(error);
         }
-        const dataArray = data.toString().split("\r\n").join(",").split(",");
-        for (let i = 0, j = 1; i < dataArray.length; i += 2, j += 2) {
-            let formattedCommand = dataArray[i].trim();
-            let formattedSearch = dataArray[j].replace(/"/g, "").trim();
-            console.log(formattedSearch)
-            readCommand(formattedCommand, formattedSearch);
+        const dataArray = data.toString().split("\r\n").join(",").split(","); // puts content of random.txt into an array
+        for (let i = 0, j = 1; i < dataArray.length; i += 2, j += 2) { // for loop with a command iterator and a search iterator 
+            let formattedCommand = dataArray[i].trim(); // stores and formats the command iterator
+            let formattedSearch = dataArray[j].replace(/"/g, "").trim(); // stores and formats the search iterator. uses regex to replace all double quotes ("). this was causing an issue with bandsintown api
+            readCommand(formattedCommand, formattedSearch); // runs the readCommand function for each pair of iterators
         }
     });
 }

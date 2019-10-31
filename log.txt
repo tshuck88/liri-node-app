@@ -172,3 +172,180 @@ spotify-this-song safsdf
 =============================
 No song was found. Please check grammatical errors or enter a different song.
 =============================
+
+=============================
+Not a recognized command. Try "concert-this", "spotify-this-song", "movie-this", or "do-what-it-says".
+=============================
+concert-thisdiplo
+=============================
+Armed Forces Entertainment
+Thule, Greenland
+10/31/2019
+=============================
+=============================
+XS Nightclub
+Las Vegas, NV
+United States
+11/01/2019
+=============================
+=============================
+Beyond Wonderland Bogota
+Barrios Unidos, Colombia
+11/09/2019
+=============================
+=============================
+EDC Orlando
+Orlando, FL
+United States
+11/10/2019
+=============================
+=============================
+Caos
+Campinas, Brazil
+11/22/2019
+=============================
+=============================
+Creamfields
+Santiago, Chile
+11/23/2019
+=============================
+=============================
+The Republik
+Honolulu, HI
+United States
+11/27/2019
+=============================
+=============================
+The Republik
+Honolulu, HI
+United States
+11/29/2019
+=============================
+=============================
+Tiki Fest
+Papeete, French Polynesia
+11/30/2019
+=============================
+=============================
+Neonic Music Fest
+Puerto Vallarta, Mexico
+12/28/2019
+=============================
+=============================
+XS Nightclub
+Las Vegas, NV
+United States
+12/29/2019
+=============================
+=============================
+Decadence Festival (Dec 30-31)
+Chandler, AZ
+United States
+12/30/2019
+=============================
+=============================
+XXWinterbeach
+Tulum, Mexico
+01/02/2020
+=============================
+=============================
+Holy Ship! Wrecked
+Punta Cana, Dominican Republic
+01/22/2020
+=============================
+=============================
+Stagecoach Festival
+Indio, CA
+United States
+04/26/2020
+=============================
+concert-this diplo
+=============================
+Armed Forces Entertainment
+Thule, Greenland
+10/31/2019
+=============================
+=============================
+XS Nightclub
+Las Vegas, NV
+United States
+11/01/2019
+=============================
+=============================
+Beyond Wonderland Bogota
+Barrios Unidos, Colombia
+11/09/2019
+=============================
+=============================
+EDC Orlando
+Orlando, FL
+United States
+11/10/2019
+=============================
+=============================
+Caos
+Campinas, Brazil
+11/22/2019
+=============================
+=============================
+Creamfields
+Santiago, Chile
+11/23/2019
+=============================
+=============================
+The Republik
+Honolulu, HI
+United States
+11/27/2019
+=============================
+=============================
+The Republik
+Honolulu, HI
+United States
+11/29/2019
+=============================
+=============================
+Tiki Fest
+Papeete, French Polynesia
+11/30/2019
+=============================
+=============================
+Neonic Music Fest
+Puerto Vallarta, Mexico
+12/28/2019
+=============================
+=============================
+XS Nightclub
+Las Vegas, NV
+United States
+12/29/2019
+=============================
+=============================
+Decadence Festival (Dec 30-31)
+Chandler, AZ
+United States
+12/30/2019
+=============================
+=============================
+XXWinterbeach
+Tulum, Mexico
+01/02/2020
+=============================
+=============================
+Holy Ship! Wrecked
+Punta Cana, Dominican Republic
+01/22/2020
+=============================
+=============================
+Stagecoach Festival
+Indio, CA
+United States
+04/26/2020
+=============================
+spotify-this-song i want it that way
+=============================
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=271ea3ba154c48f5813d465e0dbf6621
+=============================
