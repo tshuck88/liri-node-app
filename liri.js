@@ -7,7 +7,7 @@ const moment = require('moment');
 const fs = require("fs");
 
 let userCommand;
-if (process.argv[2] !== undefined){
+if (process.argv[2] !== undefined) {
     userCommand = process.argv[2].toLowerCase();
 }
 let searchInput = process.argv.slice(3).join(" ");
@@ -36,14 +36,14 @@ function readCommand(command) {
 
 
 function songSearch(song) {
-    if(song === ""){
-        song = "The Sign"
+    if (song === "") {
+        song = "The Sign Ace of Base";
+        console.log("No song was entered. Check out 'The Sign' by Ace of Base.");
     }
     spotify.search({ type: 'track', query: song, limit: "5" }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
-        
         for (let i = 0; i < data.tracks.items.length; i++) {
             const artistName = [];
             const returnedArtists = data.tracks.items[i].artists;
@@ -61,6 +61,10 @@ function songSearch(song) {
 }
 
 function concertSearch(artist) {
+    if (artist === "") {
+        artist = "Diplo";
+        console.log("No artist was entered. Here are Diplo's upcoming shows.");
+    }
     const queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
     axios.get(queryURL).then(
         function (response) {
@@ -95,6 +99,10 @@ function concertSearch(artist) {
 }
 
 function movieSearch(movie) {
+    if (movie === "") {
+        movie = "Mr. Nobody";
+        console.log("No movie was entered. Here are some details about the movie 'Mr. Nobody'.");
+    }
     const queryURL = "http://www.omdbapi.com/?apikey=trilogy&t=" + movie
     axios.get(queryURL).then(
         function (response) {
