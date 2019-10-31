@@ -31,7 +31,7 @@ function logText(message) {
     });
 }
 
-readCommand(userCommand,searchInput);
+readCommand(userCommand, searchInput);
 
 function readCommand(command, search) {
     switch (command) {
@@ -57,7 +57,9 @@ function readCommand(command, search) {
 function songSearch(song) {
     if (song === "") {
         song = "The Sign Ace of Base";
-        logText("No song was entered. Check out 'The Sign' by Ace of Base.");
+        logText(divider);
+        logText("No song was entered. Check out 'The Sign' by Ace of Base:");
+        logText(divider);
     }
     spotify.search({ type: 'track', query: song, limit: "1" }, function (err, data) {
         if (err) {
@@ -82,7 +84,9 @@ function songSearch(song) {
 function concertSearch(artist) {
     if (artist === "") {
         artist = "Diplo";
-        logText("No artist was entered. Here are Diplo's upcoming shows.");
+        logText(divider);
+        logText("No artist was entered. Here are Diplo's upcoming shows:");
+        logText(divider);
     }
     const queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
     axios.get(queryURL).then(
@@ -120,7 +124,9 @@ function concertSearch(artist) {
 function movieSearch(movie) {
     if (movie === "") {
         movie = "Mr. Nobody";
-        logText("No movie was entered. Here are some details about the movie 'Mr. Nobody'.");
+        logText(divider);
+        logText("No movie was entered. Here are some details about the movie 'Mr. Nobody':");
+        logText(divider);
     }
     const queryURL = "http://www.omdbapi.com/?apikey=trilogy&t=" + movie
     axios.get(queryURL).then(
@@ -157,14 +163,12 @@ function doWhatItSays() {
         if (error) {
             logText(error);
         }
-        const dataArray = data.toString().split("\r\n").join(",").split(",")
-        logText(dataArray)
-
-        // readCommand(dataCommand);
+        const dataArray = data.toString().split("\r\n").join(",").split(",");
         for (let i = 0, j = 1; i < dataArray.length; i += 2, j += 2) {
-            console.log("Data: " + dataArray[i])
-            readCommand(dataArray[i], dataArray[j])
-            console.log("Search: " + dataArray[j])
+            let formattedCommand = dataArray[i].trim();
+            let formattedSearch = dataArray[j].replace(/"/g, "").trim();
+            console.log(formattedSearch)
+            readCommand(formattedCommand, formattedSearch);
         }
     });
 }
