@@ -64,6 +64,10 @@ function songSearch(song) {
     spotify.search({ type: 'track', query: song, limit: "1" }, function (err, data) {
         if (err) {
             return logText('Error occurred: ' + err);
+        } else if (data.tracks.total === 0) {
+            logText(divider);
+            logText("No song was found. Please check grammatical errors or enter a different song.");
+            logText(divider);
         }
         for (let i = 0; i < data.tracks.items.length; i++) {
             const artistName = [];
@@ -91,6 +95,11 @@ function concertSearch(artist) {
     const queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
     axios.get(queryURL).then(
         function (response) {
+            if (response.data.length === 0) {
+                logText(divider);
+                logText("No events were found. Please check grammatical errors or enter a different artist.");
+                logText(divider);
+            }
             for (let i = 0; i < response.data.length; i++) {
                 const venue = response.data[i].venue
                 logText(divider);
@@ -131,16 +140,22 @@ function movieSearch(movie) {
     const queryURL = "http://www.omdbapi.com/?apikey=trilogy&t=" + movie
     axios.get(queryURL).then(
         function (response) {
-            logText(divider);
-            logText("Title: " + response.data.Title);
-            logText("Year: " + response.data.Year);
-            logText("IMDB Rating: " + response.data.imdbRating);
-            logText("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
-            logText("Country: " + response.data.Country);
-            logText("Language: " + response.data.Language);
-            logText("Actors: " + response.data.Actors);
-            logText("Plot: " + response.data.Plot);
-            logText(divider);
+            if (response.data.Response === "False") {
+                logText(divider);
+                logText("No movie was found. Please check grammatical errors or enter a different movie.");
+                logText(divider);
+            } else {
+                logText(divider);
+                logText("Title: " + response.data.Title);
+                logText("Year: " + response.data.Year);
+                logText("IMDB Rating: " + response.data.imdbRating);
+                logText("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
+                logText("Country: " + response.data.Country);
+                logText("Language: " + response.data.Language);
+                logText("Actors: " + response.data.Actors);
+                logText("Plot: " + response.data.Plot);
+                logText(divider);
+            }
         }).catch(function (error) {
             if (error.response) {
                 logText("---------------Data---------------");
