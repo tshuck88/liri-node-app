@@ -12,8 +12,8 @@ if (process.argv[2] !== undefined) {
 }
 let searchInput = process.argv.slice(3).join(" ");
 const divider = "=============================";
-const text = process.argv.slice(2).join(" ") + "\n";
 
+const text = process.argv.slice(2).join(" ") + "\n";
 fs.appendFileSync("log.txt", text, function (err) {
     if (err) {
         logText(err);
@@ -31,19 +31,18 @@ function logText(message) {
     });
 }
 
+readCommand(userCommand,searchInput);
 
-readCommand(userCommand);
-
-function readCommand(command) {
+function readCommand(command, search) {
     switch (command) {
         case "spotify-this-song":
-            songSearch(searchInput);
+            songSearch(search);
             break;
         case "concert-this":
-            concertSearch(searchInput);
+            concertSearch(search);
             break;
         case "movie-this":
-            movieSearch(searchInput);
+            movieSearch(search);
             break;
         case "do-what-it-says":
             doWhatItSays();
@@ -60,7 +59,7 @@ function songSearch(song) {
         song = "The Sign Ace of Base";
         logText("No song was entered. Check out 'The Sign' by Ace of Base.");
     }
-    spotify.search({ type: 'track', query: song, limit: "5" }, function (err, data) {
+    spotify.search({ type: 'track', query: song, limit: "1" }, function (err, data) {
         if (err) {
             return logText('Error occurred: ' + err);
         }
@@ -160,9 +159,13 @@ function doWhatItSays() {
         }
         const dataArray = data.toString().split("\r\n").join(",").split(",")
         logText(dataArray)
-        const dataCommand = dataArray[0];
-        searchInput = dataArray[1];
-        readCommand(dataCommand);
+
+        // readCommand(dataCommand);
+        for (let i = 0, j = 1; i < dataArray.length; i += 2, j += 2) {
+            console.log("Data: " + dataArray[i])
+            readCommand(dataArray[i], dataArray[j])
+            console.log("Search: " + dataArray[j])
+        }
     });
 }
 
