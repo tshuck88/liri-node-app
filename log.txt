@@ -1,264 +1,393 @@
-do-what-it-says
+spotify-this-song bye bye bye
 =============================
-Title: Star Wars: Episode IV - A New Hope
-Year: 1977
-IMDB Rating: 8.6
-Rotten Tomatoes Rating: 93%
-Country: USA
-Language: English
-Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
-Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Artist(s): *NSYNC
+Song: Bye Bye Bye
+Album: No Strings Attached
+Preview URL: https://p.scdn.co/mp3-preview/72b91cb27fac7beb50a2deffdd8b821fba5ba950?cid=271ea3ba154c48f5813d465e0dbf6621
 =============================
+spotify-this-song bye bye bye
 =============================
-Armed Forces Entertainment
-Thule, Greenland
-10/31/2019
+Artist(s): *NSYNC
+Song: Bye Bye Bye
+Album: No Strings Attached
+Preview URL: https://p.scdn.co/mp3-preview/72b91cb27fac7beb50a2deffdd8b821fba5ba950?cid=271ea3ba154c48f5813d465e0dbf6621
 =============================
-=============================
-XS Nightclub
-Las Vegas, NV
-United States
-11/01/2019
-=============================
-=============================
-Beyond Wonderland Bogota
-Barrios Unidos, Colombia
-11/09/2019
-=============================
-=============================
-EDC Orlando
-Orlando, FL
-United States
-11/10/2019
-=============================
-=============================
-Caos
-Campinas, Brazil
-11/22/2019
-=============================
-=============================
-Creamfields
-Santiago, Chile
-11/23/2019
-=============================
-=============================
-The Republik
-Honolulu, HI
-United States
-11/27/2019
-=============================
-=============================
-The Republik
-Honolulu, HI
-United States
-11/29/2019
-=============================
-=============================
-Tiki Fest
-Papeete, French Polynesia
-11/30/2019
-=============================
-=============================
-Neonic Music Fest
-Puerto Vallarta, Mexico
-12/28/2019
-=============================
-=============================
-XS Nightclub
-Las Vegas, NV
-United States
-12/29/2019
-=============================
-=============================
-Decadence Festival (Dec 30-31)
-Chandler, AZ
-United States
-12/30/2019
-=============================
-=============================
-XXWinterbeach
-Tulum, Mexico
-01/02/2020
-=============================
-=============================
-Holy Ship! Wrecked
-Punta Cana, Dominican Republic
-01/22/2020
-=============================
-=============================
-Stagecoach Festival
-Indio, CA
-United States
-04/26/2020
-=============================
-=============================
-Artist(s): Backstreet Boys
-Song: I Want It That Way
-Album: The Hits--Chapter One
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=271ea3ba154c48f5813d465e0dbf6621
-=============================
-spotify-this-song safsdf
-spotify-this-song safsdf
-spotify-this-song safsdf
-spotify-this-song i want it that way
-=============================
-Artist(s): Backstreet Boys
-Song: I Want It That Way
-Album: The Hits--Chapter One
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=271ea3ba154c48f5813d465e0dbf6621
-=============================
-spotify-this-song i want it that way
-=============================
-Artist(s): Backstreet Boys
-Song: I Want It That Way
-Album: The Hits--Chapter One
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=271ea3ba154c48f5813d465e0dbf6621
-=============================
-spotify-this-song safsdf
-spotify-this-song safsdf
-No song was found. Please check grammatical errors or enter a different song
-concert-this skrillex
-concert-this skrillex
-No song was found. Please check grammatical errors or enter a different song.
-movie-this
-=============================
-No movie was entered. Here are some details about the movie 'Mr. Nobody':
-=============================
-=============================
-Title: Mr. Nobody
-Year: 2009
-IMDB Rating: 7.8
-Rotten Tomatoes Rating: 67%
-Country: Belgium, Germany, Canada, France, USA, UK
-Language: English, Mohawk
-Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-=============================
-movie-this saddggd
-=============================
-Title: undefined
-Year: undefined
-IMDB Rating: undefined
-Error
-undefined
-movie-this saddggd
-=============================
-Title: undefined
-Year: undefined
-IMDB Rating: undefined
-Error
-undefined
-movie-this saddggd
-No song was found. Please check grammatical errors or enter a different song.
-=============================
-Title: undefined
-Year: undefined
-IMDB Rating: undefined
-Error
-undefined
-movie-this saddggd
-No movie was found. Please check grammatical errors or enter a different movie.
-movie-this saddggd
-No movie was found. Please check grammatical errors or enter a different movie.
-movie-this saddggd
-=============================
-No movie was found. Please check grammatical errors or enter a different movie.
-=============================
-concert-this skrillex
-=============================
-No events were found. Please check grammatical errors or enter a different artist.
-=============================
-spotify-this-song safsdf
-=============================
-No song was found. Please check grammatical errors or enter a different song.
-=============================
-
+clear 
 =============================
 Not a recognized command. Try "concert-this", "spotify-this-song", "movie-this", or "do-what-it-says".
 =============================
-concert-thisdiplo
+spotify-this-song bye bye bye
 =============================
-Armed Forces Entertainment
-Thule, Greenland
-10/31/2019
+Artist(s): *NSYNC
+Song: Bye Bye Bye
+Album: No Strings Attached
+Preview URL: https://p.scdn.co/mp3-preview/72b91cb27fac7beb50a2deffdd8b821fba5ba950?cid=271ea3ba154c48f5813d465e0dbf6621
 =============================
+move-this bad boys
 =============================
-XS Nightclub
-Las Vegas, NV
-United States
-11/01/2019
+Not a recognized command. Try "concert-this", "spotify-this-song", "movie-this", or "do-what-it-says".
 =============================
-=============================
-Beyond Wonderland Bogota
-Barrios Unidos, Colombia
-11/09/2019
-=============================
-=============================
-EDC Orlando
-Orlando, FL
-United States
-11/10/2019
-=============================
-=============================
-Caos
-Campinas, Brazil
-11/22/2019
-=============================
-=============================
-Creamfields
-Santiago, Chile
-11/23/2019
-=============================
-=============================
-The Republik
-Honolulu, HI
-United States
-11/27/2019
-=============================
-=============================
-The Republik
-Honolulu, HI
-United States
-11/29/2019
-=============================
-=============================
-Tiki Fest
-Papeete, French Polynesia
-11/30/2019
-=============================
-=============================
-Neonic Music Fest
-Puerto Vallarta, Mexico
-12/28/2019
-=============================
-=============================
-XS Nightclub
-Las Vegas, NV
-United States
-12/29/2019
-=============================
-=============================
-Decadence Festival (Dec 30-31)
-Chandler, AZ
-United States
-12/30/2019
-=============================
-=============================
-XXWinterbeach
-Tulum, Mexico
-01/02/2020
-=============================
-=============================
-Holy Ship! Wrecked
-Punta Cana, Dominican Republic
-01/22/2020
-=============================
-=============================
-Stagecoach Festival
-Indio, CA
-United States
-04/26/2020
-=============================
+movie-this bad boys
+---------------Data---------------
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta http-equiv="refresh" content="0">
+
+<title>www.omdbapi.com | 522: Connection timed out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+        <div class="cf-wrapper cf-error-overview">
+            <h1>
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">522</span>
+              <small class="heading-ray-id">Ray ID: 52e8cca43b8eeb55 &bull; 2019-10-31 21:42:48 UTC</small>
+            </h1>
+            <h2 class="cf-subheadline">Connection timed out</h2>
+        </div><!-- /.error-overview -->
+        
+        <div class="cf-section cf-highlight cf-status-display">
+            <div class="cf-wrapper">
+                <div class="cf-columns cols-3">
+                  
+<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-browser"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">You</span>
+  <h3 class="cf-status-name">Browser</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class="cf-column cf-status-item cf-cloudflare-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-cloud"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">Los Angeles</span>
+  <h3 class="cf-status-name">Cloudflare</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-server"></i>
+    <i class="cf-icon-status cf-icon-error"></i>
+  </div>
+  <span class="cf-status-desc">www.omdbapi.com</span>
+  <h3 class="cf-status-name">Host</h3>
+  <span class="cf-status-label">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div><!-- /.status-display -->
+
+        <div class="cf-section cf-wrapper">
+            <div class="cf-columns two">
+                <div class="cf-column">
+                    <h2>What happened?</h2>
+                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="cf-column">
+                    <h2>What can I do?</h2>
+                          <h5>If you're a visitor of this website:</h5>
+      <p>Please try again in a few minutes.</p>
+
+      <h5>If you're the owner of this website:</h5>
+      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+              
+        </div><!-- /.section -->
+
+        <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>52e8cca43b8eeb55</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 67.170.33.88</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+</div><!-- /#cf-wrapper -->
+</body>
+</html>
+
+---------------Status---------------
+522
+---------------Status---------------
+[object Object]
+[object Object]
+movie-this bad boys
+movie-this bad boys
+---------------Data---------------
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta http-equiv="refresh" content="0">
+
+<title>www.omdbapi.com | 522: Connection timed out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+        <div class="cf-wrapper cf-error-overview">
+            <h1>
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">522</span>
+              <small class="heading-ray-id">Ray ID: 52e8cdec5a73e7c9 &bull; 2019-10-31 21:43:40 UTC</small>
+            </h1>
+            <h2 class="cf-subheadline">Connection timed out</h2>
+        </div><!-- /.error-overview -->
+        
+        <div class="cf-section cf-highlight cf-status-display">
+            <div class="cf-wrapper">
+                <div class="cf-columns cols-3">
+                  
+<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-browser"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">You</span>
+  <h3 class="cf-status-name">Browser</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class="cf-column cf-status-item cf-cloudflare-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-cloud"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">Los Angeles</span>
+  <h3 class="cf-status-name">Cloudflare</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-server"></i>
+    <i class="cf-icon-status cf-icon-error"></i>
+  </div>
+  <span class="cf-status-desc">www.omdbapi.com</span>
+  <h3 class="cf-status-name">Host</h3>
+  <span class="cf-status-label">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div><!-- /.status-display -->
+
+        <div class="cf-section cf-wrapper">
+            <div class="cf-columns two">
+                <div class="cf-column">
+                    <h2>What happened?</h2>
+                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="cf-column">
+                    <h2>What can I do?</h2>
+                          <h5>If you're a visitor of this website:</h5>
+      <p>Please try again in a few minutes.</p>
+
+      <h5>If you're the owner of this website:</h5>
+      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+              
+        </div><!-- /.section -->
+
+        <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>52e8cdec5a73e7c9</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 67.170.33.88</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+</div><!-- /#cf-wrapper -->
+</body>
+</html>
+
+---------------Status---------------
+522
+---------------Status---------------
+[object Object]
+[object Object]
+movie-this star wars
+---------------Data---------------
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta http-equiv="refresh" content="0">
+
+<title>www.omdbapi.com | 522: Connection timed out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+        <div class="cf-wrapper cf-error-overview">
+            <h1>
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">522</span>
+              <small class="heading-ray-id">Ray ID: 52e8cfb0ce0f9953 &bull; 2019-10-31 21:44:52 UTC</small>
+            </h1>
+            <h2 class="cf-subheadline">Connection timed out</h2>
+        </div><!-- /.error-overview -->
+        
+        <div class="cf-section cf-highlight cf-status-display">
+            <div class="cf-wrapper">
+                <div class="cf-columns cols-3">
+                  
+<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-browser"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">You</span>
+  <h3 class="cf-status-name">Browser</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class="cf-column cf-status-item cf-cloudflare-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-cloud"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">Los Angeles</span>
+  <h3 class="cf-status-name">Cloudflare</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-server"></i>
+    <i class="cf-icon-status cf-icon-error"></i>
+  </div>
+  <span class="cf-status-desc">www.omdbapi.com</span>
+  <h3 class="cf-status-name">Host</h3>
+  <span class="cf-status-label">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div><!-- /.status-display -->
+
+        <div class="cf-section cf-wrapper">
+            <div class="cf-columns two">
+                <div class="cf-column">
+                    <h2>What happened?</h2>
+                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="cf-column">
+                    <h2>What can I do?</h2>
+                          <h5>If you're a visitor of this website:</h5>
+      <p>Please try again in a few minutes.</p>
+
+      <h5>If you're the owner of this website:</h5>
+      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+              
+        </div><!-- /.section -->
+
+        <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>52e8cfb0ce0f9953</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 67.170.33.88</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+</div><!-- /#cf-wrapper -->
+</body>
+</html>
+
+---------------Status---------------
+522
+---------------Status---------------
+[object Object]
+[object Object]
 concert-this diplo
 =============================
 Armed Forces Entertainment
@@ -342,10 +471,339 @@ Indio, CA
 United States
 04/26/2020
 =============================
-spotify-this-song i want it that way
+spotify-this-song bye bye bye
+=============================
+Artist(s): *NSYNC
+Song: Bye Bye Bye
+Album: No Strings Attached
+Preview URL: https://p.scdn.co/mp3-preview/72b91cb27fac7beb50a2deffdd8b821fba5ba950?cid=271ea3ba154c48f5813d465e0dbf6621
+=============================
+movie-this star wars
+---------------Data---------------
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta http-equiv="refresh" content="0">
+
+<title>www.omdbapi.com | 522: Connection timed out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+        <div class="cf-wrapper cf-error-overview">
+            <h1>
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">522</span>
+              <small class="heading-ray-id">Ray ID: 52e8d34b2b6cd376 &bull; 2019-10-31 21:47:20 UTC</small>
+            </h1>
+            <h2 class="cf-subheadline">Connection timed out</h2>
+        </div><!-- /.error-overview -->
+        
+        <div class="cf-section cf-highlight cf-status-display">
+            <div class="cf-wrapper">
+                <div class="cf-columns cols-3">
+                  
+<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-browser"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">You</span>
+  <h3 class="cf-status-name">Browser</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class="cf-column cf-status-item cf-cloudflare-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-cloud"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">Los Angeles</span>
+  <h3 class="cf-status-name">Cloudflare</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-server"></i>
+    <i class="cf-icon-status cf-icon-error"></i>
+  </div>
+  <span class="cf-status-desc">www.omdbapi.com</span>
+  <h3 class="cf-status-name">Host</h3>
+  <span class="cf-status-label">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div><!-- /.status-display -->
+
+        <div class="cf-section cf-wrapper">
+            <div class="cf-columns two">
+                <div class="cf-column">
+                    <h2>What happened?</h2>
+                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="cf-column">
+                    <h2>What can I do?</h2>
+                          <h5>If you're a visitor of this website:</h5>
+      <p>Please try again in a few minutes.</p>
+
+      <h5>If you're the owner of this website:</h5>
+      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+              
+        </div><!-- /.section -->
+
+        <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>52e8d34b2b6cd376</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 67.170.33.88</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+</div><!-- /#cf-wrapper -->
+</body>
+</html>
+
+---------------Status---------------
+522
+---------------Status---------------
+[object Object]
+[object Object]
+do-what-it-says 
 =============================
 Artist(s): Backstreet Boys
 Song: I Want It That Way
 Album: The Hits--Chapter One
 Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=271ea3ba154c48f5813d465e0dbf6621
 =============================
+=============================
+Armed Forces Entertainment
+Thule, Greenland
+10/31/2019
+=============================
+=============================
+XS Nightclub
+Las Vegas, NV
+United States
+11/01/2019
+=============================
+=============================
+Beyond Wonderland Bogota
+Barrios Unidos, Colombia
+11/09/2019
+=============================
+=============================
+EDC Orlando
+Orlando, FL
+United States
+11/10/2019
+=============================
+=============================
+Caos
+Campinas, Brazil
+11/22/2019
+=============================
+=============================
+Creamfields
+Santiago, Chile
+11/23/2019
+=============================
+=============================
+The Republik
+Honolulu, HI
+United States
+11/27/2019
+=============================
+=============================
+The Republik
+Honolulu, HI
+United States
+11/29/2019
+=============================
+=============================
+Tiki Fest
+Papeete, French Polynesia
+11/30/2019
+=============================
+=============================
+Neonic Music Fest
+Puerto Vallarta, Mexico
+12/28/2019
+=============================
+=============================
+XS Nightclub
+Las Vegas, NV
+United States
+12/29/2019
+=============================
+=============================
+Decadence Festival (Dec 30-31)
+Chandler, AZ
+United States
+12/30/2019
+=============================
+=============================
+XXWinterbeach
+Tulum, Mexico
+01/02/2020
+=============================
+=============================
+Holy Ship! Wrecked
+Punta Cana, Dominican Republic
+01/22/2020
+=============================
+=============================
+Stagecoach Festival
+Indio, CA
+United States
+04/26/2020
+=============================
+movie-this bad boys
+---------------Data---------------
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta http-equiv="refresh" content="0">
+
+<title>www.omdbapi.com | 522: Connection timed out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+        <div class="cf-wrapper cf-error-overview">
+            <h1>
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">522</span>
+              <small class="heading-ray-id">Ray ID: 52e92b1a3cfaeb8d &bull; 2019-10-31 22:47:16 UTC</small>
+            </h1>
+            <h2 class="cf-subheadline">Connection timed out</h2>
+        </div><!-- /.error-overview -->
+        
+        <div class="cf-section cf-highlight cf-status-display">
+            <div class="cf-wrapper">
+                <div class="cf-columns cols-3">
+                  
+<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-browser"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">You</span>
+  <h3 class="cf-status-name">Browser</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class="cf-column cf-status-item cf-cloudflare-status ">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-cloud"></i>
+    <i class="cf-icon-status cf-icon-ok"></i>
+  </div>
+  <span class="cf-status-desc">Los Angeles</span>
+  <h3 class="cf-status-name">Cloudflare</h3>
+  <span class="cf-status-label">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">
+  <div class="cf-icon-error-container">
+    <i class="cf-icon cf-icon-server"></i>
+    <i class="cf-icon-status cf-icon-error"></i>
+  </div>
+  <span class="cf-status-desc">www.omdbapi.com</span>
+  <h3 class="cf-status-name">Host</h3>
+  <span class="cf-status-label">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div><!-- /.status-display -->
+
+        <div class="cf-section cf-wrapper">
+            <div class="cf-columns two">
+                <div class="cf-column">
+                    <h2>What happened?</h2>
+                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="cf-column">
+                    <h2>What can I do?</h2>
+                          <h5>If you're a visitor of this website:</h5>
+      <p>Please try again in a few minutes.</p>
+
+      <h5>If you're the owner of this website:</h5>
+      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+              
+        </div><!-- /.section -->
+
+        <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>52e92b1a3cfaeb8d</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 67.170.33.88</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+</div><!-- /#cf-wrapper -->
+</body>
+</html>
+
+---------------Status---------------
+522
+---------------Status---------------
+[object Object]
+[object Object]
